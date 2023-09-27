@@ -1,0 +1,2 @@
+### Files for the Capstone Project
+The files in this repo are related to the first Capstone Project of the __Professional Certificate in Machine Learning and Artificial Intelligence__ from the Imperial College Business School, and are meant to be read with the associated report (not in this repo).
